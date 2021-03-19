@@ -8,8 +8,7 @@ import org.junit.runners.Suite;
 
 @RunWith(Suite.class)
 @Suite.SuiteClasses({
-        Example.class,
-        PersonController.class
+        
 })
 public class RunTests {
 
